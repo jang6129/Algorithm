@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cd7b6a5-edf6-4a6b-848d-ef56c1342929" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HUnlNcYx4vO2zEdPenKzMvfPKT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/doma/eclipse-workspace/Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="9cd7b6a5-edf6-4a6b-848d-ef56c1342929" name="변경" comment="" />
+      <created>1668348679168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668348679168</updated>
+      <workItem from="1668348680346" duration="20000" />
+      <workItem from="1669616745214" duration="2170000" />
+      <workItem from="1669655212691" duration="559000" />
+      <workItem from="1669655808707" duration="199000" />
+      <workItem from="1669656024208" duration="1249000" />
+      <workItem from="1669657284312" duration="1075000" />
+      <workItem from="1669696134717" duration="37000" />
+      <workItem from="1669696377466" duration="919000" />
+      <workItem from="1669698932232" duration="172000" />
+      <workItem from="1669699583253" duration="80000" />
+      <workItem from="1669699671932" duration="17451000" />
+      <workItem from="1670437925890" duration="601000" />
+      <workItem from="1670920401957" duration="9000" />
+      <workItem from="1673403897566" duration="7826000" />
+      <workItem from="1675058498083" duration="5177000" />
+      <workItem from="1675685511354" duration="35208000" />
+      <workItem from="1676213784761" duration="4752000" />
+      <workItem from="1676231781742" duration="1798000" />
+      <workItem from="1676234787482" duration="1666000" />
+      <workItem from="1676258884998" duration="43315000" />
+      <workItem from="1677159846870" duration="3175000" />
+      <workItem from="1679996425873" duration="378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
