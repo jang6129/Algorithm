@@ -8,17 +8,21 @@ public class Num2839 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
-        int sum = 0;
+        int sum = -1;
 
-        if (N % 5 == 0) {
-            sum += N / 5;
-            N %= 5;
-        } else {
 
+        if (N % 5 == 0) sum = N / 5;
+        else {
+            for (int i = N / 5; i >= 0 / 5; i--) {
+                if ((N - (i * 5)) % 3 == 0) {
+                    sum++;
+                    sum += i;
+                    N -= i * 5;
+                    sum += N / 3;
+                    break;
+                }
+            }
         }
-        
-        if (N > 0) System.out.println(-1);
-        else System.out.println(sum);
-
+        System.out.println(sum);
     }
 }
