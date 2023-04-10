@@ -3,42 +3,36 @@ package BaekJoon;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
 
 public class Num1541 {
-	public static void main(String[] args) {
-		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-		Queue<Character> queue = new LinkedList<>();
-		ArrayList<Integer> arr = new ArrayList<>();
-		String input = null;
-		int stack = 0;
-		
-		try {
-			input = bf.readLine();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-		String inputs[] = input.split("'+'");
-		// 55-50+40
-		// 55-50
-		// 40
-		for(String s : inputs) {
-			if (!s.contains("'-'")) {
-				stack += Integer.parseInt(s);
-			} else {
-				String inputss[] = s.split("-");
-				for(String ss : inputss) {
-					if (ss != null) {
-					stack -= Integer.parseInt(ss);
-					}
-				}
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		String input = br.readLine();
+		int sum = 0;
+
+		if (input.contains("-")) {
+			String[] blocks = input.split("-");
+
+			sum += calc(blocks[0]);
+
+			for (int i = 1; i < blocks.length; i++) {
+				sum -= calc(blocks[i]);
 			}
+
+			System.out.println(sum);
+		} else {
+			System.out.println(calc(input));
 		}
-		
-		System.out.println(stack);
+	}
+
+	private static int calc(String block) {
+		String[] nums = block.split("\\+");
+		int sum = 0;
+
+		for (String num : nums) {
+			sum += Integer.parseInt(num);
+		}
+
+		return sum;
 	}
 }
