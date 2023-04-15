@@ -24,19 +24,18 @@ public class Num15565 {
         int counter = 0;
 
         // 시작, 끝 포인터 설정
-        int left = 0;
-        int right = 0;
+        int left = -1;
+        int right = -1;
 
         while (right < N) {
-            if (counter >= K) {
-                min = Math.min(min, right - left);
-                if (arr[left] == 1) counter--;
-                left++;
-                if (arr[left] == 1) counter++;
-                else counter--;
-            } else {
-                if (arr[right] == 1) counter++;
+            if (counter < K) {
                 right++;
+                if (right >= N) break;
+                if (arr[right] == 1) counter++;
+            } else {
+                min = Math.min(min, right - left);
+                left++;
+                if (arr[left] == 1) counter--;
             }
         }
 
