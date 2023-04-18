@@ -16,7 +16,7 @@ public class Num1934 {
             int a = Integer.parseInt(tk.nextToken());
             int b = Integer.parseInt(tk.nextToken());
 
-            sb.append(gcd(a, b) + "\n");
+            sb.append(a * b / gcd(a, b) + "\n");
         }
 
         System.out.println(sb);
