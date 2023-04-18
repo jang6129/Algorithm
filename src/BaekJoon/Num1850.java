@@ -9,30 +9,21 @@ public class Num1850 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer tk = new StringTokenizer(br.readLine());
-        long A = 0;
-        long B = 0;
+        StringBuilder sb = new StringBuilder();
+        long A = Long.parseLong(tk.nextToken());
+        long B = Long.parseLong(tk.nextToken());
 
-        for (int i = 0; i < 2; i++) {
-            A = Long.parseLong(tk.nextToken());
-            B = Long.parseLong(tk.nextToken());
+        long N = gcd(A, B);
+        for (int i = 0; i < N; i++) {
+            sb.append("1");
         }
 
-        long sumA = 0;
-        long sumB = 0;
-
-        for (long i = 0; i < A; i++) {
-            sumA += 1 * (Math.pow(10, i));
-            if (i < B) sumB += 1 * (Math.pow(10,i));
-        }
-
-        System.out.println(gdc(sumA, sumB));
-
+        System.out.println(sb);
     }
 
-    static long gdc(long a, long b) {
+    static long gcd(long a, long b) {
         if (b == 0) return a;
-        else {
-            return gdc(b, a % b);
-        }
+        else return gcd(b, a % b);
     }
+
 }
