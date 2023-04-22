@@ -5,23 +5,24 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Num1850 {
+public class Num1934 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer tk = new StringTokenizer(br.readLine());
+        int T = Integer.parseInt(br.readLine());
         StringBuilder sb = new StringBuilder();
-        long A = Long.parseLong(tk.nextToken());
-        long B = Long.parseLong(tk.nextToken());
 
-        long N = gcd(A, B);
-        for (int i = 0; i < N; i++) {
-            sb.append("1");
+        for (int i = 0; i < T; i++) {
+            StringTokenizer tk = new StringTokenizer(br.readLine());
+            int a = Integer.parseInt(tk.nextToken());
+            int b = Integer.parseInt(tk.nextToken());
+
+            sb.append(a * b / gcd(a, b) + "\n");
         }
 
         System.out.println(sb);
     }
 
-    static long gcd(long a, long b) {
+    static int gcd(int a, int b) {
         if (b == 0) return a;
         else return gcd(b, a % b);
     }
