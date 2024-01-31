@@ -37,7 +37,6 @@ public class 가장_먼_노드 {
         for (int i = 2; i <= n; i++) {
             if (edges[1][i] == max) answer++;
         }
-
         return answer;
     }
 }
