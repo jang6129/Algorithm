@@ -33,6 +33,7 @@ public class 가장_먼_노드 {
             if (edges[1][i] != Integer.MAX_VALUE) max = Math.max(max, edges[1][i]);
         }
 
+
         int answer = 0;
         for (int i = 2; i <= n; i++) {
             if (edges[1][i] == max) answer++;
