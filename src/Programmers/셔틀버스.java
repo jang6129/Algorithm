@@ -25,7 +25,8 @@ public String solution(int n, int t, int m, String[] timetable) {
         }
         crews.add(arrToInt);
     }
-    
+
+
     // 구간별 셔틀 리스트 생성
     List<List<Integer>> shuttles = new ArrayList<>();
     for (int i = 0; i < n; i++) {
