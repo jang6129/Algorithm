@@ -27,6 +27,7 @@ public class 가장_먼_노드 {
             }
         }
 
+
         // 최대거리 측정
         int max = 0;
         for (int i = 2; i <= n; i++) {
