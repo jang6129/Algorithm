@@ -29,6 +29,5 @@ public class 하노이의_탑 {
             recur(n-1, via, from, to);
         }
 
-
     }
 }
