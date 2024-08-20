@@ -7,37 +7,38 @@ import java.util.Map;
 
 public class 도넛과_막대_그래프 {
 
-    static List<List<Integer>> nodes = new ArrayList<>();
-
     public int[] solution(int[][] edges) {
-
-        Map<Integer, Integer> pointed = new HashMap<>();
-        int createdNode = 0;
-
-        for (int i = 0; i < edges.length; i++) {
-            nodes.add(new ArrayList<>());
-        }
+        int max = 0;
 
         for (int[] edge : edges) {
-            int start = edge[0];
-            int destination = edge[1];
-            nodes.get(start).add(destination);
-
-            if (pointed.containsKey(start)) {
-                pointed.put(start, pointed.get(start) + 1);
-            }
-            else pointed.put(start, destination);
+            max = (edge[0] > max)? edge[0] : max;
+            max = (edge[1] > max)? edge[1] : max;
         }
 
-//        createdNode = pointed.
+        int[] answer = {0, 0, 0, 0};
 
-        int[] answer = {};
+        int[][] counter = new int[max + 1][2];
+
+        for (int[] edge : edges) {
+            counter[edge[0]][0]++;
+            counter[edge[1]][1]++;
+        }
+
+        for (int i = 1; i < counter.length; i++) {
+            if (counter[i][0] >= 2 && counter[i][1] == 0) {
+                answer[0] = i;
+            }
+            else if (counter[i][0] == 0 && counter[i][1] >= 1) {
+                answer[2]++;
+            }
+            else if (counter[i][0] == 2 && counter[i][1] >= 2) {
+                answer[3]++;
+            }
+        }
+        answer[1] = counter[answer[0]][0] - answer[2] - answer[3];
+
         return answer;
 
     } // solution ends
 
-    public int dfs(int count, int cur, int next, int[][] edges, boolean[] visited) {
-        // if ()
-        return 0;
-    } // dfs ends
 }

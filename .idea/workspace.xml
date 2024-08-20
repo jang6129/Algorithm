@@ -4,7 +4,73 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd7b6a5-edf6-4a6b-848d-ef56c1342929" name="변경" comment="" />
+    <list default="true" id="9cd7b6a5-edf6-4a6b-848d-ef56c1342929" name="변경" comment="BaekJoon 1916 solve">
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num10026.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1003_re.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1068.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1068re.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11286.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11382.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1158.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1158_re.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11650.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11724re.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11725.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1193.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1325.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1325_practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num14502_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1463.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1463_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1516.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1516_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1516_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1520.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num15565.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num15686.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1707_ex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1717.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num17298.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1753.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1753_2$Road.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1753_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num18352.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num18352_list.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1850.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1874_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1916$Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1916.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1929.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1929_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1931$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1931.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1934.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1976.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1987.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1991.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2023.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2023_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2023_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2023_example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2108.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2108re.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2252.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2440.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2441.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2559.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2573.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2667.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2839.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num7569.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num9095.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/Programmers/GameMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Num1219.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1541.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1541.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,32 +83,54 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2HUnlNcYx4vO2zEdPenKzMvfPKT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/doma/eclipse-workspace/Algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jang6/Desktop/programming/junit/006814",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -73,10 +161,59 @@
       <workItem from="1676258884998" duration="43315000" />
       <workItem from="1677159846870" duration="3175000" />
       <workItem from="1679996425873" duration="378000" />
+      <workItem from="1682946216768" duration="1977000" />
+      <workItem from="1682948866144" duration="125000" />
+      <workItem from="1683290760870" duration="567000" />
+      <workItem from="1683291346563" duration="1101000" />
+      <workItem from="1683380835515" duration="2956000" />
+      <workItem from="1683465927553" duration="1927000" />
+      <workItem from="1683725416780" duration="4361000" />
+      <workItem from="1685022201053" duration="107000" />
+      <workItem from="1685263374939" duration="626000" />
+      <workItem from="1685631297396" duration="53000" />
+      <workItem from="1686918863925" duration="599000" />
+      <workItem from="1687060245428" duration="95000" />
+      <workItem from="1724129777927" duration="651000" />
     </task>
+    <task id="LOCAL-00001" summary="BaekJoon 2180 unsolve">
+      <created>1682948808493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682948808493</updated>
+    </task>
+    <task id="LOCAL-00002" summary="BaekJoon 9095 solve">
+      <created>1683383742504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683383742504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BaekJoon 1003 unsolve">
+      <created>1683468522948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683468522948</updated>
+    </task>
+    <task id="LOCAL-00004" summary="BaekJoon 1916 solve">
+      <created>1683729707452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683729707452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BaekJoon 2180 unsolve" />
+    <MESSAGE value="BaekJoon 9095 solve" />
+    <MESSAGE value="BaekJoon 1003 unsolve" />
+    <MESSAGE value="BaekJoon 1916 solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaekJoon 1916 solve" />
   </component>
 </project>
