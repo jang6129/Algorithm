@@ -4,73 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd7b6a5-edf6-4a6b-848d-ef56c1342929" name="변경" comment="BaekJoon 1916 solve">
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num10026.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1003.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1003_re.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1068.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1068re.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11004.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11286.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11382.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1158.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1158_re.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11650.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11724re.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num11725.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1193.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1325.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1325_practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num14502_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1463.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1463_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1516.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1516_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1516_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1520.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num15565.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num15686.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1707_ex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1717.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num17298.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1753.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1753_2$Road.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1753_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num18352.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num18352_list.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1850.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1874_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1916$Line.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1916.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1929.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1929_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1931$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1931.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1934.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1976.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1987.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1991.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2023.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2023_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2023_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2023_example.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2108.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2108re.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2252.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2440.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2441.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2559.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2573.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2667.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num2839.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num7569.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num9095.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/production/Algorithm/Programmers/GameMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Num1219.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1541.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/Num1541.class" afterDir="false" />
-    </list>
+    <list default="true" id="9cd7b6a5-edf6-4a6b-848d-ef56c1342929" name="변경" comment="BaekJoon 1916 solve" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +107,7 @@
       <workItem from="1685631297396" duration="53000" />
       <workItem from="1686918863925" duration="599000" />
       <workItem from="1687060245428" duration="95000" />
-      <workItem from="1724129777927" duration="651000" />
+      <workItem from="1724129777927" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="BaekJoon 2180 unsolve">
       <created>1682948808493</created>
