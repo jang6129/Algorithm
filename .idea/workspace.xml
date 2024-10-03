@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cd7b6a5-edf6-4a6b-848d-ef56c1342929" name="변경" comment="BaekJoon 1916 solve">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/톱니바퀴$Wheel.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/톱니바퀴$Wheel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/톱니바퀴.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Algorithm/BaekJoon/톱니바퀴.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -56,9 +58,12 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.CombinationExample.executor": "Run",
+    "애플리케이션.치킨_배달.executor": "Run",
+    "애플리케이션.톱니바퀴.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -116,6 +121,9 @@
       <workItem from="1724676923107" duration="71000" />
       <workItem from="1725000112159" duration="14000" />
       <workItem from="1726907620948" duration="1941000" />
+      <workItem from="1727858793272" duration="146000" />
+      <workItem from="1727858987366" duration="117000" />
+      <workItem from="1727859117495" duration="14825000" />
     </task>
     <task id="LOCAL-00001" summary="BaekJoon 2180 unsolve">
       <created>1682948808493</created>
