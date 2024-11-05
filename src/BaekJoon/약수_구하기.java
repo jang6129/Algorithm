@@ -1,4 +1,4 @@
-package BaekJoon.out.production.BaekJoon.BaekJoon;
+package BaekJoon;
 
 import java.util.ArrayList;
 import java.util.Scanner;
