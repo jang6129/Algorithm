@@ -1,4 +1,4 @@
-package BaekJoon.집합과맵;
+package BaekJoon.집합과_맵;
 
 import java.util.HashSet;
 import java.util.Scanner;
